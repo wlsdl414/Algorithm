@@ -1,6 +1,6 @@
 # Algorithm2026
 ### Homework1
 
-[SelectionSorting](./homework/SelectionSorting.png)
-[BubbleSorting](./homework/BubbleSorting.png)
+[SelectionSorting](./Homwork/SelectionSorting.png)
+[BubbleSorting](./Homework/BubbleSorting.png)
 
