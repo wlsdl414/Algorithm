@@ -34,4 +34,9 @@
 ### Homework7
 
 [SortAnimation_my](Homework/SortAnimation_my.pde)
-![HeapSorting](Homework/HeapSorting.png)
+![SortAnimation_my](Homework/SortAnimation.png)
+
+[Array](Homework/Array.pde)
+![Array](Homework/Array.png)
+
+![SortAnimation_my](Homework/SortAnimation.gif)
