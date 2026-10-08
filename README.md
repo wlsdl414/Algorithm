@@ -40,3 +40,10 @@
 ![Array](Homework/Array.png)
 
 ![SortAnimation_my](Homework/SortAnimation_my.gif)
+
+
+### Homework8
+
+[BinarySearchTree](Homework/BinarySearchTree)
+![BinarySearchTree_code](Homework/BinarySearchTree_code.png)
+![BinarySearchTree](Homework/BinarySearchTree.png)
