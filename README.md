@@ -50,6 +50,6 @@
 
 ### Homework9
 
-[infix_to_postfix_calculator_using_stack](Homework/infix_to_postfix_calculator_using_stack)
+[infix_to_postfix_calculator_using_stack.pde](Homework/infix_to_postfix_calculator_using_stack.pde)
 ![infix_to_postfix_calculator_using_stack.png](Homework/infix_to_postfix_calculator_using_stack.png)
 ![infix_to_postfix_calculator_using_stack_output.png](Homework/infix_to_postfix_calculator_using_stack_output.png)
