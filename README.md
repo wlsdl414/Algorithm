@@ -53,3 +53,9 @@
 [infix_to_postfix_calculator_using_stack.pde](Homework/infix_to_postfix_calculator_using_stack.pde)
 ![infix_to_postfix_calculator_using_stack.png](Homework/infix_to_postfix_calculator_using_stack.png)
 ![infix_to_postfix_calculator_using_stack_output.png](Homework/infix_to_postfix_calculator_using_stack_output.png)
+
+
+### Homework10
+[Pebble Placement Problem](Homework/Pebble Placement Problem.pde)
+![Pebble Placement Problem_code](Homework/Pebble Placement Problem_code.png)
+![Pebble Placement Problem](Homework/Pebble Placement Problem.png)
