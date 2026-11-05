@@ -57,5 +57,5 @@
 
 ### Homework10
 [Pebble Placement Problem](Homework/Pebble_Placement_Problem.pde)
-![Pebble Placement Problem_code](Homework/Pebble Placement Problem_code.png)
-![Pebble Placement Problem](Homework/Pebble Placement Problem.png)
+![Pebble Placement Problem_code](Homework/Pebble_Placement_Problem_code.png)
+![Pebble Placement Problem](Homework/Pebble_Placement_Problem.png)
