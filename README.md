@@ -24,12 +24,10 @@
 [QuickSorting](Homework/QuickSorting.pde)
 ![QuickSorting](Homework/QuickSorting.png)
 
-
 ### Homework6
 
 [HeapSorting](Homework/HeapSorting.pde)
 ![HeapSorting](Homework/HeapSorting.png)
-
 
 ### Homework7
 
@@ -40,7 +38,6 @@
 ![Array](Homework/Array.png)
 
 ![SortAnimation_my](Homework/SortAnimation_my.gif)
-
 
 ### Homework8
 
@@ -54,8 +51,8 @@
 ![infix_to_postfix_calculator_using_stack.png](Homework/infix_to_postfix_calculator_using_stack.png)
 ![infix_to_postfix_calculator_using_stack_output.png](Homework/infix_to_postfix_calculator_using_stack_output.png)
 
-
 ### Homework10
+
 [Pebble Placement Problem](Homework/Pebble_Placement_Problem.pde)
 ![Pebble Placement Problem_code](Homework/Pebble_Placement_Problem_code.png)
 ![Pebble Placement Problem](Homework/Pebble_Placement_Problem.png)
@@ -65,3 +62,9 @@
 [BFS_for_a_graph](Homework/BFS_for_a_graph.pde)
 ![BFS_for_a_graph_code](Homework/BFS_for_a_graph_code.png)
 ![BFS_for_a_graph](Homework/BFS_for_a_graph.gif)
+
+### Homework12
+
+[MST](Homework/MST.pde)
+![MST](Homework/MST.png)
+![MST](Homework/MST.gif)
